@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "We're the stars",
+  "base_artist": "愛美",
+  "createdAt": "2025-12-16T07:59:47.946026Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dark Was Space, Cold Were the Stars",
+      "artist": "Slift",
+      "has_synced": true,
+      "path": "select/01_Dark_Was_Space,_Cold_Were_the_Stars_Slift.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "We're the Stars",
+      "artist": "Aimi",
+      "has_synced": true,
+      "path": "select/02_We're_the_Stars_Aimi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "We're the stars",
+      "artist": "愛美",
+      "has_synced": true,
+      "path": "select/03_We're_the_stars_愛美.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "We're the stars",
+      "artist": "Aimi",
+      "has_synced": true,
+      "path": "select/04_We're_the_stars_Aimi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "We’re the stars",
+      "artist": "愛美",
+      "has_synced": true,
+      "path": "select/05_We’re_the_stars_愛美.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "We’re the stars",
+      "artist": "Aimi",
+      "has_synced": true,
+      "path": "select/06_We’re_the_stars_Aimi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "We're the Stars",
+      "artist": "Aimi",
+      "has_synced": true,
+      "path": "select/07_We're_the_Stars_Aimi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "We're the stars",
+      "artist": "Aimi Terakawa",
+      "has_synced": true,
+      "path": "select/08_We're_the_stars_Aimi_Terakawa.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "We’re the Stars",
+      "artist": "Aimi",
+      "has_synced": true,
+      "path": "select/09_We’re_the_Stars_Aimi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "We're the stars",
+      "artist": "愛美",
+      "has_synced": false,
+      "path": "select/pl_01_We're_the_stars_愛美.txt"
+    }
+  ]
+}
